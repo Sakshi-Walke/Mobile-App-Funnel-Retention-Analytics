@@ -12,7 +12,7 @@ The project focuses on identifying funnel drop-offs, measuring cohort retention,
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 The mobile application receives users through different acquisition channels, but the business lacks visibility into:
 
@@ -26,7 +26,7 @@ The objective is to create a data-driven analytics framework that helps stakehol
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 1. Analyze the mobile application conversion funnel.
 2. Identify major user drop-off points.
@@ -40,7 +40,7 @@ The objective is to create a data-driven analytics framework that helps stakehol
 
 ---
 
-## 🏗️ Solution Architecture
+##  Solution Architecture
 
 ```text
 Firebase / GA4
@@ -69,7 +69,7 @@ Decision Making
 
 ---
 
-## 📊 Key Analysis Areas
+## Key Analysis Areas
 
 ### 1. Funnel Analysis
 
@@ -126,7 +126,7 @@ The objective is to identify whether newer user cohorts are improving or declini
 
 ---
 
-## 🌳 KPI Tree
+##  KPI Tree
 
 ### Business Goal
 
@@ -165,7 +165,7 @@ Revenue
 
 ---
 
-## 📋 Business Analyst Deliverables
+##  Business Analyst Deliverables
 
 This project includes:
 
@@ -186,7 +186,7 @@ This project includes:
 
 ---
 
-## 🧑‍💼 BA Role in the Project
+##  BA Role in the Project
 
 As the Business Analyst, I was responsible for:
 
@@ -204,7 +204,7 @@ As the Business Analyst, I was responsible for:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Area | Technology |
 |---|---|
@@ -218,7 +218,7 @@ As the Business Analyst, I was responsible for:
 
 ---
 
-## 📈 Expected Business Outcomes
+##  Expected Business Outcomes
 
 The solution is designed to help stakeholders:
 
@@ -233,7 +233,7 @@ The solution is designed to help stakeholders:
 
 ---
 
-## 🔐 Data Privacy
+##  Data Privacy
 
 This portfolio project uses publicly available/sample analytics data.
 
@@ -241,7 +241,7 @@ No confidential company data, customer information, production credentials, or p
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 01_Business_Requirements
@@ -256,7 +256,7 @@ No confidential company data, customer information, production credentials, or p
 
 ---
 
-## 🚀 Project Status
+## Project Status
 
 **Status:** In Progress
 
@@ -264,7 +264,7 @@ The project is being developed as an end-to-end Business Analyst + Data Analyst 
 
 ---
 
-## 👩‍💻 Skills Demonstrated
+##  Skills Demonstrated
 
 **Business Analysis:**  
 Requirements Elicitation · BRD · User Stories · Acceptance Criteria · UAT · KPI Definition · Stakeholder Analysis

@@ -1,6 +1,6 @@
 # Mobile-App-Funnel-Retention-Analytics
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates an end-to-end Business Analyst and Data Analytics solution for understanding mobile application user behavior, conversion funnel performance, and user retention.
 

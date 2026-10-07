@@ -1,4 +1,4 @@
-# Mobile-App-Funnel-Retention-Analytics
+# Mobile App Funnel Retention Analytics
 
 ##  Project Overview
 
